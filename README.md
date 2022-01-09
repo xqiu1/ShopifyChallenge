@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 [https://xqiu1.github.io/ShopifyChallenge/](https://xqiu1.github.io/ShopifyChallenge/)
 
 
-## Screenshots for the app
+## Screenshots
 
 ### Overview
 ![overview](img/Screenshot1.png)
